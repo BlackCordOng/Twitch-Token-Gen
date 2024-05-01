@@ -1,7 +1,9 @@
 
 ![Logo](https://images-ext-1.discordapp.net/external/w3-Rk8qvwYb5QJmsNjlmwe_vGK9ZrcA88aL7MQqvCII/%3Fsize%3D4096/https/cdn.discordapp.com/icons/1217240232660041728/3ce6c84effd89986783c0c2c3cd24b72.png?format=webp&quality=lossless)
 
-## Twitch Token Generator
+## Twitch Token Generator [ CAPTCHA BYPASS ] 
+
+Auto Adds A Bio And Auto Follows A User, Supports Proxies And No proxies
 
 ## Feedback
 
